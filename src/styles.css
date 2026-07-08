@@ -1,0 +1,12 @@
+.App {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+.card {
+  aspect-ratio: 16 / 9;
+  background-color: lavender;
+  display: grid;
+  place-content: center center;
+  width: 16rem;
+}
